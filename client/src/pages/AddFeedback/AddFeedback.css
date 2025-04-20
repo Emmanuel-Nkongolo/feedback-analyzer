@@ -1,0 +1,36 @@
+.add-feedback-page {
+  padding: 40px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.page-title {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: var(--dark-text);
+}
+
+.page-description {
+  font-size: 16px;
+  color: var(--light-text);
+  margin-bottom: 30px;
+  max-width: 800px;
+}
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  color: var(--primary-color);
+  text-decoration: none;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+.back-link svg {
+  margin-right: 5px;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
